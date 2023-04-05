@@ -1,5 +1,5 @@
 #----------------------------------------------------------------
-#    HUNT THE WUMPUS - Eduardo Pivaral Leal 20032276
+#    HUNT THE WUMPUS - Eduardo Pivaral Leal https://github.com/Epivaral/scripts
 #    -----------------------------------------------
 #         ===== Descripcion del proyecto =====
 #  
